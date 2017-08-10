@@ -1,0 +1,6 @@
+c:\users\seancui\documents\visual studio 2017\Projects\fillingMissingData\fillingMissingData\obj\Debug\fillingMissingData.csprojResolveAssemblyReference.cache
+c:\users\seancui\documents\visual studio 2017\Projects\fillingMissingData\fillingMissingData\bin\Debug\fillingMissingData.exe.config
+c:\users\seancui\documents\visual studio 2017\Projects\fillingMissingData\fillingMissingData\bin\Debug\fillingMissingData.exe
+c:\users\seancui\documents\visual studio 2017\Projects\fillingMissingData\fillingMissingData\bin\Debug\fillingMissingData.pdb
+c:\users\seancui\documents\visual studio 2017\Projects\fillingMissingData\fillingMissingData\obj\Debug\fillingMissingData.exe
+c:\users\seancui\documents\visual studio 2017\Projects\fillingMissingData\fillingMissingData\obj\Debug\fillingMissingData.pdb
